@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "bruh"
-permalink: /ok
+permalink: /zoho-domain-verification.html
 ---
 
-Your page content goes here.
+58548704
